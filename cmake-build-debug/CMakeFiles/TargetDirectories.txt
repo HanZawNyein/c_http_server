@@ -1,0 +1,3 @@
+/Users/agga/Documents/C-dev/sample/cmake-build-debug/CMakeFiles/sample.dir
+/Users/agga/Documents/C-dev/sample/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/agga/Documents/C-dev/sample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
